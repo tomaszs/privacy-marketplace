@@ -1,4 +1,4 @@
-# privacy-marketplace
+# Privacy Marketplace 
 A marketplace to sell private data
 
 Currently companies all over the world collect and sell our data.
